@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CS5200-2019Fall-JinjingMiao">
+        <property name="context-root" value="CS5200-2019Fall-JinjingMiao"/>
+    </wb-module>
+</project-modules>
