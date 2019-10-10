@@ -1,0 +1,2 @@
+select * from person where type in ('Developer');
+select * from person where type in ('Developer') and id in (34);
