@@ -33,3 +33,4 @@ int main(){
     for(auto &i:B)
     cout<<i<<endl;
 }
+# 7205Assignment2
